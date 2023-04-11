@@ -3,7 +3,7 @@
 
 int main()
 {
-    sf::RenderWindow window(sf::VideoMode(400, 300), "Moving Point");
+    sf::RenderWindow window(sf::VideoMode(800, 600), "Moving Point");
 
     sf::CircleShape point(2.f);
     point.setFillColor(sf::Color::White);

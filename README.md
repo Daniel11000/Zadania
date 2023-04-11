@@ -10,7 +10,7 @@
 
 <br>
 
-<b> W folderze <i>Zadanie 3</i> znajduje się folder i plik: </b>
+<b> W folderze <i>Zadanie 3</i> znajdują się 2 foldery i plik: </b>
 - W pliku <i>"zad3.cpp"</i> jest funkcja obcinająca spacje z lewej i prawej strony wprowadzonego wyrażenia oraz main który sprawdza działanie tej funkcji.
 - W folderze <i>"Z_zapisem_do_pliku_jako_demonstracja_dzialania"</i> jest plik <i>"zad3_z_zapisem_do_pliku.cpp"</i> który jest niemal taki sam jak powyższy plik, z tą różnicą, że oprócz wypisania w konsoli wyniku wpisuje to także do pliku (ponieważ w pliu tekstowym o wiele lepiej widać, czy spacje z prawej srony są obcięte).
-
+- W folderze <i>"Tylko_Funkcja"</i> jest plik <i>"zad3_function.cpp"</i> który jest samą funkcją (bez main).
